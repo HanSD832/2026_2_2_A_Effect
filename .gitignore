@@ -104,3 +104,13 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+Assets/Scenes/Fire.unity
+Assets/Scenes/Fire.unity.meta
+Assets/Shader/Fx_Particle_apb.mat
+Assets/Shader/Fx_Particle_apb.mat.meta
+Assets/Shader/Fx_Particle_apb.shadergraph
+Assets/Shader/Fx_Particle_apb.shadergraph.meta
+Assets/Texture/EffectTexture.tga.meta
+Assets/Texture/EffectTexture_02.tga
+Assets/Texture/EffectTexture_02.tga.meta
+Assets/Meshes.meta

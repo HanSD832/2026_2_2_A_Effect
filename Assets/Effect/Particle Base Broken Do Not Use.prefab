@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8934191869622720016}
   - component: {fileID: 4132384797486284814}
   m_Layer: 0
-  m_Name: Particle Base
+  m_Name: Particle Base Broken Do Not Use
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
